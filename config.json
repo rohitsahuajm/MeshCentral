@@ -3,7 +3,7 @@
   "__comment1__": "This is a simple configuration file, all values and sections that start with underscore (_) are ignored. Edit a section and remove the _ in front of the name. Refer to the user's guide for details.",
   "__comment2__": "See node_modules/meshcentral/sample-config-advanced.json for a more advanced example.",
   "settings": {
-    "_cert": "myserver.mydomain.com",
+    "_cert": "https://xk2a99mobp.preview.c40.airoapp.ai/",
     "_WANonly": true,
     "_LANonly": true,
     "_sessionKey": "MyReallySecretPassword1",
@@ -14,7 +14,7 @@
   },
   "domains": {
     "": {
-      "_title": "MyServer",
+      "_title": "xk2a99mobp.preview.c40.airoapp.ai",
       "_title2": "Servername",
       "_minify": true,
       "_newAccounts": true,
